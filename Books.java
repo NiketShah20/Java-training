@@ -1,4 +1,6 @@
 package com.niketshah;
+//a) How do we access the index of the values present in the enums?
+
 enum Subjects {
 		DBMS, DSA, NETWORKING, OPERATING_SYSTEMS;
 }
