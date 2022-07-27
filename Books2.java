@@ -1,4 +1,6 @@
 package com.niketshah;
+// b) If while accessing the enums I pass an argument or say
+//value which is not present in the enum then what kind of exception will be thrown?
 
 import java.util.Scanner;
 
